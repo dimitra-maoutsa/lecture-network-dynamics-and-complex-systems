@@ -2,7 +2,7 @@
 # Network Dynamics & Complex Systems - Theoretical and Computational Tools 
 (under construction)
 
-Lecture content covered by me and provided here:
+Lecture content created and covered by me (Dimitra Maoutsa) and provided here:
 - Approximation theory (asymptotic solutions for ODEs, matched asymptotics) (9.11.2016)
 - [Random networks](https://gitlab.com/di.ma/lecture-network-dynamics-and-complex-systems/-/blob/master/Lecture_16-11-16.pdf) (16.11.2016) <img src="random_networks.png"  width="30%" height="30%"> <img src="prob_connected_to_giant.png"  width="25%" height="25%">
 
