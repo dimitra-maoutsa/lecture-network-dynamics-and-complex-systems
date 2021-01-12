@@ -3,10 +3,10 @@
 (under construction)
 
 Lecture content covered by me and provided here:
-- Approximation theory (9.11.2016)
+- Approximation theory (asymptotic solutions for ODEs, matched asymptotics) (9.11.2016)
 - [Random networks](https://gitlab.com/di.ma/lecture-network-dynamics-and-complex-systems/-/blob/master/Lecture_16-11-16.pdf) (16.11.2016)
+<img src="random_networks.png"  width="50%" height="50%">
 
-![alt text](random_networks.png "Title Text")
 - Searching in complex networks (23.11.2016)
 - Random walks on graphs (14.12.2016)
 
