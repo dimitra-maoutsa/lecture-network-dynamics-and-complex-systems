@@ -1,4 +1,4 @@
-# Lecture material for part of the lecture 
+# Lecture material for (part of) the lecture 
 # Network Dynamics & Complex Systems - Theoretical and Computational Tools 
 (under construction)
 
