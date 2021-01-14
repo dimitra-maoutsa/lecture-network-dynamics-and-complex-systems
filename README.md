@@ -10,7 +10,8 @@ Lecture content created and covered by me (Dimitra Maoutsa) and provided here:
 - Random walks on graphs (14.12.2016)
 
 
-Lecture took place during winter semester 2016/17 at Georg-August-Universität Göttingen
+Lecture took place during winter semester 2016/17 at Georg-August-Universität Göttingen.
+Rest of the lecture was covered by Diemut Regel, Nahal Sharafi, and Marc Timme.
 
 ( Contect provided here was created by Dimitra Maoutsa. )
 
