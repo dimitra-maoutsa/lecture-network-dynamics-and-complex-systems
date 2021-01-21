@@ -15,4 +15,3 @@ Rest of the lecture was covered by Diemut Regel, Nahal Sharafi, and Marc Timme.
 
 ( Contect provided here was created by Dimitra Maoutsa. )
 
-[.] (https://github.com/dimitra-maoutsa/lecture-network-dynamics-and-complex-systems/blob/master/googled9cc947ded865a6d.html)
