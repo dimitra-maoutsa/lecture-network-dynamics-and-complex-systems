@@ -15,3 +15,5 @@ Rest of the lecture was covered by Diemut Regel, Nahal Sharafi, and Marc Timme.
 
 ( Contect provided here was created by Dimitra Maoutsa. )
 
+[More info [here](https://dimitra-maoutsa.gitlab.io/TEACHING.html)]
+
